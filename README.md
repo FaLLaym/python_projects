@@ -1,6 +1,6 @@
 # Python Projects
 
----
+
 
 ## _This repository contains my solutions for different tasks:_
 
