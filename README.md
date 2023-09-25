@@ -8,7 +8,7 @@
 - ### Codewars
 - ### Sololearn
 - ### Stepik
-- ### Pet-Projects
+- ### Mini-Projects
 - ### Projects
 
 ---
