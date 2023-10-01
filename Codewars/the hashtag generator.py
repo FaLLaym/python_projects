@@ -1,3 +1,9 @@
+# It must start with a hashtag (#).
+# All words must have their first letter capitalized.
+# If the final result is longer than 140 chars it must return false.
+# If the input or the result is an empty string it must return false.
+
+
 def generate_hashtag(to_formate : str) -> str:
     if len(to_formate) == 0:
         return 0
@@ -9,8 +15,3 @@ def generate_hashtag(to_formate : str) -> str:
     return to_push
 
 print(generate_hashtag(" fdg dfh  sd sfhdfh sd hdfhdfh"))
-
-#It must start with a hashtag (#).
-#All words must have their first letter capitalized.
-#If the final result is longer than 140 chars it must return false.
-#If the input or the result is an empty string it must return false.
